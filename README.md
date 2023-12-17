@@ -1,6 +1,6 @@
 Hello,
 
-I'm Victor, another individual with some diverse background and a will for continuous learning. Originally from Vienna, in Austria, I hold French nationality, 
+I'm Victor, another young individual with a will for continuous learning. Originally from Vienna, in Austria, I hold French nationality, 
 reflecting my multicultural upbringing. I completed my high school education at a french international school located in in Tokyo, Japan, where I cultivated my passion for japanese culture.
 
 Currently living in Vienna, my hometown, I am immersed in the world of programming, currently focusing on C# and Unity for game development. I started learning programming languages less than a year ago.
@@ -11,3 +11,7 @@ Beyond the digital realm, I am an avid traveler, always eager to explore new cul
 I am an enthusiast of foreign politics and also interested in history, with a particular fondness for French history spanning the 18th, 19th, and 20th centuries.
 
 I look forward to leveraging my skills and experiences to contribute meaningfully to any endeavor I undertake.
+
+Victor Chesnay
+deluchesnay@gmail.com
+https://www.linkedin.com/in/victor-chesnay-352658225/
