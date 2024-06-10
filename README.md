@@ -1,10 +1,22 @@
 Hello,
 
-Currently living in Vienna, my hometown, I am immersed in the world of programming, currently focusing on C# and Unity for game development. I started learning programming languages less than a year ago.
-So far my coding journey extends to languages like Python, HTML, CSS, JavaScript for fullstack Developer and also C#. What started as a curiosity has transformed into a newfound love for coding, 
-aligning seamlessly with my fascination for problem-solving and creativity.
-
-I look forward to leveraging my skills and experiences to contribute meaningfully to any endeavor I undertake.
+In my previous professional career, I have gained extensive experience in the field of 
+customer service and after-sales. As a Credit Control Manager at GoStudent, I was 
+responsible for optimizing incoming payments and coordinating outgoing refunds for 
+over 18 months. This role sharpened my skills in handling financial data and gave 
+me a deep understanding of payment processes. During my time as an insurance 
+consultant and my 18 months in customer support at Allianz Partners GmbH, I was 
+able to further develop my communication skills and deepen my competence in 
+dealing with customers.
+I speak fluent German, French, and English, which allows me to communicate 
+effortlessly with customers and colleagues from different linguistic and cultural 
+backgrounds.
+I started programming independently a year ago, using the courses at the ZTM 
+Online Academy as a guide. My journey began in the field of web development with 
+Python, HTML, CSS, JavaScript, PHP, and MySQL. Recently, I also started 
+programming in C# and Java. Although I do not have much practical work 
+experience, I am a fast learner and highly motivated to deepen my knowledge 
+further.
 
 Victor Chesnay
 deluchesnay@gmail.com
